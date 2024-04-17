@@ -1,4 +1,4 @@
-module github.com/alibabacloud-go/eci-20180808/v3
+module github.com/aliyuneci/eci-20180808/v3
 
 go 1.15
 
